@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Abbeyroad",
+        "artist": "The Beatles",
+        "cover": "abbeyroad-1024x1005.jpg",
+        "age": "1969"
+    },
+    {
+        "title": "Hot-Space",
+        "artist": "The Queen",
+        "cover": "hor-space.jpg",
+        "age": "1982"
+    },
+    {
+        "title": "Lightning Bolt",
+        "artist": "Pearl Jam",
+        "cover": "1463090805020c40c2530cde7fe2b6e223731e7c10.jpeg",
+        "age": "2013"
+    },
+    {
+        "title": "Blood Sugar Sex Magik",
+        "artist": "Red Hot Chili Peppers",
+        "cover": "thumb_blood_sugar_sex_magik.jpg",
+        "age": "1991"
+    },{
+        "title": "Chris Cornell (Deluxe)",
+        "artist": "Chris Cornell",
+        "cover": "Unknown.jpg",
+        "age": "2018"
+    },
+    {
+        "title": "W  T  S  M  G",
+        "artist": "Oasis",
+        "cover": "whats-the-story-morning-glory-oasis.jpg",
+        "age": "1995"
+    }
+]
